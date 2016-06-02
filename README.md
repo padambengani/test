@@ -6,4 +6,5 @@ git config --local --list
 
 git config --global --list
 
+git rebase master
 
