@@ -12,3 +12,5 @@ git log
 
 git checkout -b master_1 origin/master_1
 
+git branch
+
