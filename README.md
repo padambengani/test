@@ -10,3 +10,5 @@ git rebase master
 
 git log
 
+git branch
+
