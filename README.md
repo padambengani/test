@@ -8,3 +8,5 @@ git config --global --list
 
 git rebase master
 
+git log
+
